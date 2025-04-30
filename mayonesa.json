@@ -1,0 +1,13 @@
+{
+  "name": "Mayonesa",
+  "symbol": "MAYO",
+  "address": "6e5gu5FmPEEWrGZ66NEND8bSQ4pzDuiCEgxF6Vq99DxS",
+  "decimals": 9,
+  "logoURI": "https://i.imgur.com/1Xk6M3K.png",
+  "tags": ["meme", "airdrop"],
+  "extensions": {
+    "website": "https://mayonesacoin.com",
+    "twitter": "https://twitter.com/MayonesaCoin",
+    "description": "The smoothest meme coin on Solana. Creamy, funny and ready to spread."
+  }
+}
